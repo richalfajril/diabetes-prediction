@@ -1,6 +1,17 @@
-# Sistem Prediksi Diabetes
+# 🚀 End-to-End Sistem Prediksi Diabetes  
 
-Aplikasi web untuk memprediksi risiko diabetes menggunakan machine learning. Aplikasi ini dikembangkan dengan Streamlit dan menggunakan model machine learning yang telah dioptimalkan untuk memberikan prediksi akurat berdasarkan berbagai indikator kesehatan.
+Proyek ini merupakan **end-to-end machine learning pipeline** yang dikembangkan untuk memprediksi risiko diabetes berdasarkan indikator kesehatan. Model machine learning yang telah dioptimalkan dideploy menggunakan **Streamlit**, sehingga pengguna dapat dengan mudah mengakses prediksi melalui antarmuka web interaktif.  
+
+## 🎯 Model Terbaik  
+
+Setelah mengevaluasi berbagai algoritma yang tersedia di **Scikit-Learn**, model dengan performa terbaik adalah:  
+
+🔹 **Model Terbaik**: Random Forest  
+🔹 **Akurasi**: 0.8389  
+🔹 **F1 Score**: 0.8386  
+🔹 **AUC (Area Under Curve)**: 0.9148  
+
+Model ini dipilih karena memberikan keseimbangan terbaik antara akurasi, generalisasi, dan interpretabilitas dalam memprediksi risiko diabetes. 
 
 ## 🚀 Fitur
 
